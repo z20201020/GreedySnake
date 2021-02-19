@@ -1,4 +1,4 @@
-#include "map.h"
+#include "src/header/map.h"
 #include <windows.h>
 
 void Map::PrintInitmap()//ªÊ÷∆≥ı ºµÿÕº

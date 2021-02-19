@@ -2,12 +2,12 @@
 #include <time.h>
 #include <conio.h>
 #include <windows.h>
-#include "controller.h"
-#include "tools.h"
-#include "startinterface.h"
-#include "map.h"
-#include "snake.h"
-#include "food.h"
+#include "src/header/controller.h"
+#include "src/header/tools.h"
+#include "src/header/startinterface.h"
+#include "src/header/map.h"
+#include "src/header/snake.h"
+#include "src/header/food.h"
 
 void Controller::Start()//开始界面
 {

@@ -1,6 +1,6 @@
-#include "snake.h"
+#include "src/header/snake.h"
 #include <conio.h>
-#include "tools.h"
+#include "src/header/tools.h"
 #include <iostream>
 
 void Snake::InitSnake()//≥ı ºªØ…ﬂ

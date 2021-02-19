@@ -1,5 +1,5 @@
-#include "food.h"
-#include "tools.h"
+#include "src/header/food.h"
+#include "src/header/tools.h"
 #include <cstdlib>
 #include <iostream>
 

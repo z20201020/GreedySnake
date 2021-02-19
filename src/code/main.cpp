@@ -1,5 +1,5 @@
-#include "controller.h"
-
+#include "src/header/controller.h"
+/* 尝试修改 */
 int main()//程序入口
 {
     Controller c;//声明一个Controller类
